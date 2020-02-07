@@ -1,0 +1,35 @@
+## likai-res 列表
+
+- GCC
+  - An Introduction to GCC
+  - EN-GCC The Complete Guide Reference
+- Git
+  - progit_v2.1.31
+  - progit-en
+- Makefile
+  - gun_make 中文手册
+  - make GNU官方手册
+  - Managing_Projects_with_GNU_Make_Third_Edition
+  - The GNU Make Book
+- Scala
+  - Programming in Scala(中文版)
+  - Programming in Scala
+- System verilog
+  - Standard Gotchas Subtleties in the Verilog and SystemVerilog Standards That
+    Every Engineer Should Know - Part1
+  - SystemVerilog 3.1a 语言参考手册
+  - systemverilog for design
+  - systemverilog for verification
+  - SystemVerilog与功能验证
+- Tcl
+  - Practical Programming in Tcl and Tk
+- Vivado
+  - eetop.cn_vivado使用误区与进阶
+- 操作系统
+  - 《操作系统精髓与设计原理(原书第6版)》PDF中文版
+  - the_design_of_the_unix_operating_system
+  - UNIX操作系统设计
+  - 深入Linux内核架构
+- 编程思想
+  - Object Oriented Software Construction
+  - Structure and Interpretation of Computer Programs

@@ -1,5 +1,8 @@
 ## likai-res 列表
 
+- Arch
+  - 分支预测器
+    - 处理器分支预测研究的历史和现状
 - GCC
   - An Introduction to GCC
   - EN-GCC The Complete Guide Reference

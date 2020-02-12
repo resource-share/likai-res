@@ -5,6 +5,8 @@
     - 处理器分支预测研究的历史和现状
   - 超标量
     - 超标量微处理器研究
+    - Modern Processor Design - Fundamentals of Superscalar Processors
+    - 现代处理器设计 
 - GCC
   - An Introduction to GCC
   - EN-GCC The Complete Guide Reference

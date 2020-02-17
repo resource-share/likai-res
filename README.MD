@@ -7,6 +7,7 @@
     - 超标量微处理器研究
     - Modern Processor Design - Fundamentals of Superscalar Processors
     - 现代处理器设计 
+    - 异质媒体双发射处理器的设计研究_江国范
 - GCC
   - An Introduction to GCC
   - EN-GCC The Complete Guide Reference

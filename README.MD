@@ -22,6 +22,7 @@
 - Scala
   - Programming in Scala(中文版)
   - Programming in Scala
+  - Programming in Scala, 3rd Edition
 - System verilog
   - Standard Gotchas Subtleties in the Verilog and SystemVerilog Standards That
     Every Engineer Should Know - Part1
